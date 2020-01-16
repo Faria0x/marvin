@@ -1,4 +1,7 @@
 function finais(palavra) {
-var palavra = "Ford Perfect";
-return palavra.slice(-3);
-}
+
+var Lucas = palavra;
+
+return Lucas.substr(-3)
+
+} 
