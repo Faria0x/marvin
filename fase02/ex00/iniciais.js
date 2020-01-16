@@ -1,4 +1,8 @@
+
 function iniciais(palavra) {
-var palavra = "mochileiro";
-return palavra.slice(0,3);
+
+var x = palavra;
+
+return x.slice(0,3);
+
 }
