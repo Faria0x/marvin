@@ -1,4 +1,7 @@
-function penultimo(lucas) {
-var a = lucas;
-return a.substr(-2,1)
+function penultimo(Lucas){
+
+var a = Lucas;
+
+return a.substr(-2, 1)
+
 }
