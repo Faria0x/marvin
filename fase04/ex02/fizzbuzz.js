@@ -1,8 +1,9 @@
+
 function fizzbuzz(n1, n2){
 
     while (n1<=n2){
 
-        var str =" ";
+        var str = " ";
 
         if (n1 % 3 === 0) {
 
